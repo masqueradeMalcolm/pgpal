@@ -1,0 +1,22 @@
+plan is to make a pgp cli client
+
+phase 1 is research. if today i can leaarn a decent bit about how pgp works thatll be a success
+
+after some research and experimenting itll be programming time
+version 1 will be made with python. if all goes well maybe ill make a version 2 in c++
+
+
+wanna be able to see messages and send messages through simple commands.
+
+
+okay first version should just be an encrypter and decrypter.
+
+will have to read plaintext and keys from files to start with.
+
+
+initial to do list.
+generate private key
+generate public key
+encrypt messages with public key
+decrypt messages with private key
+
